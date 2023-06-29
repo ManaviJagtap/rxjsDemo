@@ -1,4 +1,4 @@
-[{
+{
     "id": 1,
     "title": "Demo 1",
     "type":"Mobile",
@@ -63,5 +63,4 @@
     "title": "Demo 1",
     "type":"TV",
     "price":85000
-  }]
-
+  }
