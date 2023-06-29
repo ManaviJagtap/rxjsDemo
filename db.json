@@ -1,0 +1,68 @@
+data:[
+  {
+    "id": 1,
+    "title": "Demo 1",
+    "type":"Mobile",
+    "price":1000
+  },
+  {
+    "id": 2,
+    "title": "Demo 1",
+    "type":"Mobile",
+    "price":2000
+  },
+  {
+    "id": 3,
+    "title": "Demo 1",
+    "type":"Mouse",
+    "price":3000
+  },
+  {
+    "id": 4,
+    "title": "Demo 1",
+    "type":"Mouse",
+    "price":4000
+  },
+  {
+    "id": 5,
+    "title": "Demo 1",
+    "type":"Mouse",
+    "price":5000
+  },{
+    "id": 6,
+    "title": "Demo 1",
+    "type":"TV",
+    "price":6000
+  },
+  {
+    "id": 7,
+    "title": "Demo 1",
+    "type":"TV",
+    "price":7000
+  },
+
+  {
+    "id": 8,
+    "title": "Demo 1",
+    "type":"TV",
+    "price":9000
+  },
+  {
+    "id": 9,
+    "title": "Demo 1",
+    "type":"Remote",
+    "price":10000
+  },
+  {
+    "id": 10,
+    "title": "Demo 1",
+    "type":"Remote",
+    "price":1000
+  },
+    {
+    "id": 11,
+    "title": "Demo 1",
+    "type":"TV",
+    "price":85000
+  },
+]
